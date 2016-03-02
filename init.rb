@@ -1,4 +1,4 @@
-Redmine::Plugin.register :redmine_base_deface do
+Redmine::Plugin.register :adapter_deface do
   name 'Redmine Base Deface plugin'
   author 'Jean-Baptiste BARTH'
   description 'This is a plugin for Redmine'
